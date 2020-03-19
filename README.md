@@ -14,3 +14,5 @@ filtering techniques have been implemented - namely the item-item based neighbor
 and model-based. The idea is to find out what kind of samples and hyper
 parameters build a model having good accuracy and then recommend movies for the
 users using this model.
+
+DATASET: https://grouplens.org/datasets/movielens/
